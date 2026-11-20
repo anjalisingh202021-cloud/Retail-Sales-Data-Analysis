@@ -185,7 +185,7 @@ These findings demonstrate the value of analyzing **sales, profitability, custom
 ## 📁 Project Structure
 
 ```text
-Project_01_Retail_Sales_Analysis/
+Retail-Sales-Data-Analysis/
 │
 ├── data/
 │
@@ -211,13 +211,13 @@ Project_01_Retail_Sales_Analysis/
 Clone the repository:
 
 ```bash
-git clone https://github.com/PaneloMartin/Project_01_Retail_Sales_Analysis.git
+git clone https://github.com/anjalisingh202021-cloud/Retail-Sales-Data-Analysis.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Project_01_Retail_Sales_Analysis
+cd Retail-Sales-Data-Analysis
 ```
 
 Install the required libraries:
